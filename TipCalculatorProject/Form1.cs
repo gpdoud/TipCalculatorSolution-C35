@@ -27,6 +27,8 @@ namespace TipCalculatorProject {
             var tipAmount = billAmount * tipPercent;
             txtTipAmount.Text = tipAmount.ToString("c");
 
+
+
         }
     }
 }
